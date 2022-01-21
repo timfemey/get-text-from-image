@@ -1,0 +1,7 @@
+img {
+  width: 50%;
+  height: 37%;
+  background-clip: content-box;
+  display: block;
+  margin-top: 10%;
+}
